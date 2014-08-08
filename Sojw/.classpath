@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/Apache Group/jsoup-1.7.3.jar"/>
+	<classpathentry kind="lib" path="D:/Apache Group/phloc-css-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Apache Group/csscompress-maven-plugin-1.0.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/작업test/sqlparser/jsqlparser-0.7.0/jsqlparser/lib/jsqlparser.jar"/>
+	<classpathentry kind="lib" path="D:/Apache Group/commons-io-2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Apache Group/commons-csv-1.0-20140201.162130-251.jar"/>
+	<classpathentry kind="lib" path="D:/Apache Group/gsp_java_trial_1_4_9_2/gsp.jar"/>
+	<classpathentry kind="lib" path="D:/Apache Group/zql/classes"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
